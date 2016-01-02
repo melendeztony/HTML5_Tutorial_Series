@@ -1,0 +1,5 @@
+p[name="tony"]{color:darkred;}
+.initial{color:olivedrab;}
+p[name^="melendez"]{color:saddlebrown;}
+p[name$="here"]{color:blue;}
+p[name*="karina"]{color:pink;}
