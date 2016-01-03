@@ -1,0 +1,3 @@
+div> p{color:green;}
+p.child +p{color:blue;}
+p.child ~ p{color:purple;}
